@@ -1,0 +1,74 @@
+.cover{
+    width: 1400px;
+    height: auto;
+    border: 1px solid activecaption;
+    margin:-7px auto;
+}
+.menu{
+    height: auto;
+    width: 100%;
+    border-bottom: 1px solid activecaption;
+}
+.image{
+    width: 100%;
+    height: auto;
+}
+.content{
+    /*de cho the div nam ngang*/
+    display: flex;
+    width: 1000px;;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 20px;
+    border: 1px solid aliceblue;
+}
+.left{ 
+    width: 250px;
+    height: 900px;
+    border: 1px solid aliceblue;
+}
+.right{
+    width: 750px;
+    height: auto;
+    border: 1px solid aliceblue;
+}
+.product{
+    display: flex;
+    width: 100%;
+    height: 350px;
+}
+.product1{
+    
+    margin: 10px;
+    width: 230px;
+    height: 350px;
+}
+.buy{
+    border: 1px solid black;
+    width: 230px;
+    height: 40px;
+}
+.buy input{
+    background-color: gray;
+    font-size: 20px;
+    color: black;
+    width: 230px;
+    height: 40px;
+}
+.product-image{
+    width: 230px;
+    height: 230px;
+}
+.product-image img{
+    width: 230px;
+    height: 230px;
+}
+.product-price{
+    color: red;
+    font-size: 18px;
+}
+.footer{
+    border-top: 1px solid background;
+    width: 100%;
+    height: auto;
+}
